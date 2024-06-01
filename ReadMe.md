@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ESH
 - Western Sahara
 - Sáhara Occidental
 - Sahara occidental
