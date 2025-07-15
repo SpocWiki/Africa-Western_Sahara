@@ -124,10 +124,4 @@ Capital :: [[El_Aaiún_(Laâyoune)]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Western_Sahara|Western_Sahara]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]] 
+
