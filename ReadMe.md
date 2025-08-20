@@ -1,36 +1,37 @@
 ---
 location:
-- 27.1536
-- -13.2033
+  - 27.1536
+  - -13.2033
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26887
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Western Sahara
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Western Sahara
-- Sáhara Occidental
-- Sahara occidental
-- الصحراء الغربية
-- 西撒哈拉
-- Западная Сахара
-- 
+  - Western Sahara
+  - Sáhara Occidental
+  - Sahara occidental
+  - الصحراء الغربية
+  - 西撒哈拉
+  - Западная Сахара
+  - 
 Languages:
-- ar
-- mey
+  - ar
+  - mey
 ---
 
 
