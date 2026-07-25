@@ -295,7 +295,7 @@ dv_has_name_cn: 西撒哈拉
 dv_has_name_ar: الصحراء الغربية
 dv_has_name_ru: Западная Сахара
 dv_CLDR_display_name: Western Sahara
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western_Sahara]]'
 dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
@@ -317,7 +317,7 @@ dv_ISO2: EH
 dv_ISO3: ESH
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]'
+  - '[[../../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]'
   - '[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]'
@@ -529,14 +529,14 @@ dv_has_:
 dv_has_name_de: Western Sahara
 dv_Area-Total: 267000
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: WSA
 dv_Capital: '[[El_Aaiún_(Laâyoune)]]'
 dv_has_place_longitude: -13.2033
 dv_has_place_latitude: 27.1536
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]'
+- '[[../../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]'
 - '[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]'
@@ -618,12 +618,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Western_Sahara/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
